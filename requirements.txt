@@ -1,0 +1,5 @@
+notebook
+imutils
+opencv-python
+scipy
+matplotlib
