@@ -1,6 +1,5 @@
-
-# Created by https://www.gitignore.io/api/vim,code,venv,linux,python,windows,jupyternotebooks
-# Edit at https://www.gitignore.io/?templates=vim,code,venv,linux,python,windows,jupyternotebooks
+### Project structure ##
+assets/*
 
 ### Code ###
 .vscode/*
